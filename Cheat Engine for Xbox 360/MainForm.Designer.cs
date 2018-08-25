@@ -1,4 +1,4 @@
-﻿namespace Cheat_Engine_for_Xbox_360
+namespace Cheat_Engine_for_Xbox_360
 {
     partial class MainForm
     {
@@ -204,7 +204,7 @@
             this.connect.TabIndex = 2;
             this.connect.Text = "Connect to Xbox 360";
             this.connect.UseVisualStyleBackColor = true;
-            this.connect.Click += new System.EventHandler(this.connect_Click);
+            this.connect.Click += new System.EventHandler(this.connect_Click_1);
             // 
             // connect_ip
             // 

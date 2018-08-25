@@ -11,3 +11,16 @@ c:\users\s7clutch\documents\visual studio 2013\Projects\Cheat Engine for Xbox 36
 c:\users\s7clutch\documents\visual studio 2013\Projects\Cheat Engine for Xbox 360\Cheat Engine for Xbox 360\obj\Debug\Cheat_Engine_for_Xbox_360.EntryForm.resources
 c:\users\s7clutch\documents\visual studio 2013\Projects\Cheat Engine for Xbox 360\Cheat Engine for Xbox 360\obj\Debug\Cheat_Engine_for_Xbox_360.ChangeValueForm.resources
 c:\users\s7clutch\documents\visual studio 2013\Projects\Cheat Engine for Xbox 360\Cheat Engine for Xbox 360\obj\Debug\Cheat_Engine_for_Xbox_360.MemoryForm.resources
+C:\Users\Taxi\Desktop\Final Build_Protected\20-07-15\Cheat-Engine-For-Xbox-360-master\Cheat Engine for Xbox 360\bin\Debug\Cheat Engine for Xbox 360.exe.config
+C:\Users\Taxi\Desktop\Final Build_Protected\20-07-15\Cheat-Engine-For-Xbox-360-master\Cheat Engine for Xbox 360\obj\Debug\Cheat Engine for Xbox 360.exe
+C:\Users\Taxi\Desktop\Final Build_Protected\20-07-15\Cheat-Engine-For-Xbox-360-master\Cheat Engine for Xbox 360\obj\Debug\Cheat Engine for Xbox 360.pdb
+C:\Users\Taxi\Desktop\Final Build_Protected\20-07-15\Cheat-Engine-For-Xbox-360-master\Cheat Engine for Xbox 360\bin\Debug\Cheat Engine for Xbox 360.exe
+C:\Users\Taxi\Desktop\Final Build_Protected\20-07-15\Cheat-Engine-For-Xbox-360-master\Cheat Engine for Xbox 360\bin\Debug\Cheat Engine for Xbox 360.pdb
+C:\Users\Taxi\Desktop\Final Build_Protected\20-07-15\Cheat-Engine-For-Xbox-360-master\Cheat Engine for Xbox 360\obj\Debug\Cheat Engine for Xbox 360.csprojResolveAssemblyReference.cache
+C:\Users\Taxi\Desktop\Final Build_Protected\20-07-15\Cheat-Engine-For-Xbox-360-master\Cheat Engine for Xbox 360\obj\Debug\Cheat_Engine_for_Xbox_360.AboutForm.resources
+C:\Users\Taxi\Desktop\Final Build_Protected\20-07-15\Cheat-Engine-For-Xbox-360-master\Cheat Engine for Xbox 360\obj\Debug\Cheat_Engine_for_Xbox_360.ChangeValueForm.resources
+C:\Users\Taxi\Desktop\Final Build_Protected\20-07-15\Cheat-Engine-For-Xbox-360-master\Cheat Engine for Xbox 360\obj\Debug\Cheat_Engine_for_Xbox_360.EntryForm.resources
+C:\Users\Taxi\Desktop\Final Build_Protected\20-07-15\Cheat-Engine-For-Xbox-360-master\Cheat Engine for Xbox 360\obj\Debug\Cheat_Engine_for_Xbox_360.MainForm.resources
+C:\Users\Taxi\Desktop\Final Build_Protected\20-07-15\Cheat-Engine-For-Xbox-360-master\Cheat Engine for Xbox 360\obj\Debug\Cheat_Engine_for_Xbox_360.MemoryForm.resources
+C:\Users\Taxi\Desktop\Final Build_Protected\20-07-15\Cheat-Engine-For-Xbox-360-master\Cheat Engine for Xbox 360\obj\Debug\Cheat_Engine_for_Xbox_360.Properties.Resources.resources
+C:\Users\Taxi\Desktop\Final Build_Protected\20-07-15\Cheat-Engine-For-Xbox-360-master\Cheat Engine for Xbox 360\obj\Debug\Cheat Engine for Xbox 360.csproj.GenerateResource.Cache
